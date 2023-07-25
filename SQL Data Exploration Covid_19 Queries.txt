@@ -22,6 +22,7 @@ ORDER BY
 1,2
 
 -- Query to show countries with Most Infected
+-- Add date to see data overtime.
 SELECT
   location,
   population,
